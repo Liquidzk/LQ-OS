@@ -2,7 +2,3 @@
 #![no_main]
 mod lang_items;
 
-
-fn main() {
-   
-}
